@@ -1,0 +1,10 @@
+- product:
+    id : 1
+    description: "Red Slit Satin Dress"
+    color: "Red"
+    category: "Dress"
+- product:
+    id : 2
+    description: "Blue Slit Satin Dress"
+    color: "Blue"
+    category: "Dress"

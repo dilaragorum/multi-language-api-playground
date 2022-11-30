@@ -1,0 +1,10 @@
+- product:
+    id : 1
+    description: "Kırmızı Yırtmaçlı Saten Elbise"
+    color: "Kırmızı"
+    category: "Elbise"
+- product:
+    id : 2
+    description: "Mavi Yırtmaçlı Saten Elbise"
+    color: "Mavi"
+    category: "Elbise"
